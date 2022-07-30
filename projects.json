@@ -1,70 +1,68 @@
-{
-  "projects": [
-    {
-      "id": 1,
-      "title": "My Unsplash (clon) APP",
-      "description": "Segundo proyecto de DevChallenges.io en la ruta Fullstack, permite postear imagenes en tu main page en la aplicación y eliminarlas, así como filtrarlas con la barra de búsqueda. También está implementado un inicio de sesión con Google. ",
-      "languages": ["React", "TypeScript", "Laravel/Lumen", "Scss", "MySQL", "Firebase", "Heroku"],
-      "imagePc": "https://i.imgur.com/jf4akqL.png",
-      "imageMobile": "https://i.imgur.com/j0esVqo.png",
-      "imageFull": "https://i.imgur.com/Wez9H66.png",
-      "repoLink": "https://github.com/TonyHermann/portfolio/",
-      "liveLink": "https://my-unsp-front.web.app/"
-    },
-    {
-      "id": 2,
-      "title": "Bienes Raices MVC",
-      "description": "Este es un proyecto que hice en un curso de Udemy con Juan Pablo De la torre. Es un crud con PHP vanilla, sin ningún framework. Es 100% funcional y cuenta con un sistema de inicio de sesión, verificación de sesión y un panel de administrador para manejar las propiedades, vendedores y entradas del blog. ",
-      "languages": ["PHP", "Scss", "Javascript", "Gulp", "Cypress"],
-      "imagePc": "https://tonyhermann.github.io/portfolio/assets/bienes-raices-light-tiny.webp",
-      "imageMobile": "https://i.imgur.com/j0esVqo.png",
-      "imageFull": "https://tonyhermann.github.io/portfolio/assets/bienes-raices-light-tiny.webp",
-      "repoLink": "https://github.com/TonyHermann/BienesRaices/",
-      "liveLink": "http://bienesraices-mvc-t.herokuapp.com/"
-    },
-    {
-      "id": 3,
-      "title": "Image uploader",
-      "description": "Primer proyecto de DevChallenges.io en la ruta Fullstack, permite subir imagenes a internet con Drag & Drop o seleccionandola manualmente. ",
-      "languages": ["React", "TypeScript", "Laravel/Lumen", "Scss", "MySQL", "Firebase", "Heroku"],
-      "imagePc": "https://tonyhermann.github.io/portfolio/assets/img_up_screen.png",
-      "imageMobile": "https://i.imgur.com/j0esVqo.png",
-      "imageFull": "https://tonyhermann.github.io/portfolio/assets/img_up_screen.png",
-      "repoLink": "https://github.com/TonyHermann/",
-      "liveLink": "https://img-up-front.web.app/"
-    },
-    {
-      "id": 4,
-      "title": "Todo App",
-      "description": "Esta es una app que desarrollé como reto de la página Front End Mentor hace unos meses. Planeo re-hacer la web con un algún framework de JS. Por otro lado, la aplicación es funcional y soporta pantallas de dispositivos moviles. ",
-      "languages": ["Javascript", "Scss"],
-      "imagePc": "https://tonyhermann.github.io/portfolio/assets/todoappjs-fementor-screenshot.webp",
-      "imageMobile": "https://i.imgur.com/j0esVqo.png",
-      "imageFull": "https://tonyhermann.github.io/portfolio/assets/todoappjs-fementor-screenshot.webp",
-      "repoLink": "https://github.com/TonyHermann/todoappJS/",
-      "liveLink": "https://tonyhermann.github.io/todoappJS/index.html/"
-    },
-    {
-      "id": 5,
-      "title": "Countries Api App",
-      "description": "Reto de Front End Mentor, utilizando una API desde JS vanilla para listar todos los paises del mundo (disponibles en la api) con información de ellos. ",
-      "languages": ["Javascript", "Scss", "REST COUNTRIES API"],
-      "imagePc": "https://tonyhermann.github.io/portfolio/assets/countriesapiapp.webp",
-      "imageMobile": "https://i.imgur.com/j0esVqo.png",
-      "imageFull": "https://tonyhermann.github.io/portfolio/assets/countriesapiapp.webp",
-      "repoLink": "https://github.com/TonyHermann/CountriesApiApp/",
-      "liveLink": "https://tonyhermann.github.io/CountriesApiApp/"
-    },
-    {
-      "id": 6,
-      "title": "Adify",
-      "description": "Esta es una adaptación de el proyecto original que hice para un proyecto escolar. Cuenta con un reproductor funcional, más no tiene ningún archivo .mp3 para reproducir por copyright. Está hecho solo con JS vanilla, html5 y css3. ",
-      "languages": ["Javascript", "Css"],
-      "imagePc": "https://tonyhermann.github.io/portfolio/assets/adify-screenshot.webp",
-      "imageMobile": "https://i.imgur.com/j0esVqo.png",
-      "imageFull": "https://tonyhermann.github.io/portfolio/assets/adify-screenshot.webp",
-      "repoLink": "https://github.com/TonyHermann/adify/",
-      "liveLink": "https://tonyhermann.github.io/adify"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "My Unsplash (clon) APP",
+    "description": "Segundo proyecto de DevChallenges.io en la ruta Fullstack, permite postear imagenes en tu main page en la aplicación y eliminarlas, así como filtrarlas con la barra de búsqueda. También está implementado un inicio de sesión con Google. ",
+    "languages": ["React", "TypeScript", "Laravel/Lumen", "Scss", "MySQL", "Firebase", "Heroku"],
+    "imagePc": "https://i.imgur.com/jf4akqL.png",
+    "imageMobile": "https://i.imgur.com/j0esVqo.png",
+    "imageFull": "https://i.imgur.com/Wez9H66.png",
+    "repoLink": "https://github.com/TonyHermann/portfolio/",
+    "liveLink": "https://my-unsp-front.web.app/"
+  },
+  {
+    "id": 2,
+    "title": "Bienes Raices MVC",
+    "description": "Este es un proyecto que hice en un curso de Udemy con Juan Pablo De la torre. Es un crud con PHP vanilla, sin ningún framework. Es 100% funcional y cuenta con un sistema de inicio de sesión, verificación de sesión y un panel de administrador para manejar las propiedades, vendedores y entradas del blog. ",
+    "languages": ["PHP", "Scss", "Javascript", "Gulp", "Cypress"],
+    "imagePc": "https://tonyhermann.github.io/portfolio/assets/bienes-raices-light-tiny.webp",
+    "imageMobile": "https://i.imgur.com/j0esVqo.png",
+    "imageFull": "https://tonyhermann.github.io/portfolio/assets/bienes-raices-light-tiny.webp",
+    "repoLink": "https://github.com/TonyHermann/BienesRaices/",
+    "liveLink": "http://bienesraices-mvc-t.herokuapp.com/"
+  },
+  {
+    "id": 3,
+    "title": "Image uploader",
+    "description": "Primer proyecto de DevChallenges.io en la ruta Fullstack, permite subir imagenes a internet con Drag & Drop o seleccionandola manualmente. ",
+    "languages": ["React", "TypeScript", "Laravel/Lumen", "Scss", "MySQL", "Firebase", "Heroku"],
+    "imagePc": "https://tonyhermann.github.io/portfolio/assets/img_up_screen.png",
+    "imageMobile": "https://i.imgur.com/j0esVqo.png",
+    "imageFull": "https://tonyhermann.github.io/portfolio/assets/img_up_screen.png",
+    "repoLink": "https://github.com/TonyHermann/",
+    "liveLink": "https://img-up-front.web.app/"
+  },
+  {
+    "id": 4,
+    "title": "Todo App",
+    "description": "Esta es una app que desarrollé como reto de la página Front End Mentor hace unos meses. Planeo re-hacer la web con un algún framework de JS. Por otro lado, la aplicación es funcional y soporta pantallas de dispositivos moviles. ",
+    "languages": ["Javascript", "Scss"],
+    "imagePc": "https://tonyhermann.github.io/portfolio/assets/todoappjs-fementor-screenshot.webp",
+    "imageMobile": "https://i.imgur.com/j0esVqo.png",
+    "imageFull": "https://tonyhermann.github.io/portfolio/assets/todoappjs-fementor-screenshot.webp",
+    "repoLink": "https://github.com/TonyHermann/todoappJS/",
+    "liveLink": "https://tonyhermann.github.io/todoappJS/index.html/"
+  },
+  {
+    "id": 5,
+    "title": "Countries Api App",
+    "description": "Reto de Front End Mentor, utilizando una API desde JS vanilla para listar todos los paises del mundo (disponibles en la api) con información de ellos. ",
+    "languages": ["Javascript", "Scss", "REST COUNTRIES API"],
+    "imagePc": "https://tonyhermann.github.io/portfolio/assets/countriesapiapp.webp",
+    "imageMobile": "https://i.imgur.com/j0esVqo.png",
+    "imageFull": "https://tonyhermann.github.io/portfolio/assets/countriesapiapp.webp",
+    "repoLink": "https://github.com/TonyHermann/CountriesApiApp/",
+    "liveLink": "https://tonyhermann.github.io/CountriesApiApp/"
+  },
+  {
+    "id": 6,
+    "title": "Adify",
+    "description": "Esta es una adaptación de el proyecto original que hice para un proyecto escolar. Cuenta con un reproductor funcional, más no tiene ningún archivo .mp3 para reproducir por copyright. Está hecho solo con JS vanilla, html5 y css3. ",
+    "languages": ["Javascript", "Css"],
+    "imagePc": "https://tonyhermann.github.io/portfolio/assets/adify-screenshot.webp",
+    "imageMobile": "https://i.imgur.com/j0esVqo.png",
+    "imageFull": "https://tonyhermann.github.io/portfolio/assets/adify-screenshot.webp",
+    "repoLink": "https://github.com/TonyHermann/adify/",
+    "liveLink": "https://tonyhermann.github.io/adify"
+  }
+]
