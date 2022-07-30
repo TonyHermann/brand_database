@@ -1,0 +1,28 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "content": "今ここで、限界お超えろ",
+      "autor": "ヤミ・スケヒロ",
+      "lang": "JP"
+    },
+    {
+      "id": 2,
+      "content": "De todas maneras deberas apreder a manejarla a la perfeccion",
+      "autor": "Kibito",
+      "lang": "ES"
+    },
+    {
+      "id": 3,
+      "content": "諦めないのが俺の魔法だ！",
+      "autor": "Asta",
+      "lang": "JP"
+    },
+    {
+      "id": 4,
+      "content": "El tiempo pasaba lento, y era tan lindo.",
+      "autor": "?????",
+      "lang": "ES"
+    }
+  ]
+}
