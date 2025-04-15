@@ -67,19 +67,8 @@
   },
   {
     "id": 7,
-    "title": "Bienes Raices MVC",
-    "description": "Este es un proyecto que hice en un curso de Udemy con Juan Pablo De la torre. Es un crud con PHP vanilla, sin ningún framework. Es 100% funcional y cuenta con un sistema de inicio de sesión, verificación de sesión y un panel de administrador para manejar las propiedades, vendedores y entradas del blog. ",
-    "languages": ["PHP", "Scss", "Javascript", "Gulp", "Cypress"],
-    "imagePc": "https://tonyhermann.github.io/portfolio/assets/bienes-raices-light-tiny.webp",
-    "imageMobile": "https://i.imgur.com/j0esVqo.png",
-    "imageFull": "https://tonyhermann.github.io/portfolio/assets/bienes-raices-light-tiny.webp",
-    "repoLink": "https://github.com/TonyHermann/BienesRaices/",
-    "liveLink": "http://bienesraices-mvc-t.herokuapp.com/"
-  },
-  {
-    "id": 8,
     "title": "My Unsplash (clon) APP",
-    "description": "Segundo proyecto de DevChallenges.io en la ruta Fullstack, permite postear imagenes en tu main page en la aplicación y eliminarlas, así como filtrarlas con la barra de búsqueda. También está implementado un inicio de sesión con Google. ",
+    "description": "[Backend caído. Pendiente.] Segundo proyecto de DevChallenges.io en la ruta Fullstack, permite postear imagenes en tu main page en la aplicación y eliminarlas, así como filtrarlas con la barra de búsqueda. También está implementado un inicio de sesión con Google. ",
     "languages": ["React", "TypeScript", "Laravel/Lumen", "Scss", "MySQL", "Firebase", "Heroku"],
     "imagePc": "https://i.imgur.com/jf4akqL.png",
     "imageMobile": "https://i.imgur.com/j0esVqo.png",
@@ -88,14 +77,25 @@
     "liveLink": "https://my-unsp-front.web.app/"
   },
   {
-    "id": 9,
+    "id": 8,
     "title": "Image uploader",
-    "description": "Primer proyecto de DevChallenges.io en la ruta Fullstack, permite subir imagenes a internet con Drag & Drop o seleccionandola manualmente. ",
+    "description": "[Backend caído. Pendiente.] Primer proyecto de DevChallenges.io en la ruta Fullstack, permite subir imagenes a internet con Drag & Drop o seleccionandola manualmente. ",
     "languages": ["React", "TypeScript", "Laravel/Lumen", "Scss", "MySQL", "Firebase", "Heroku"],
     "imagePc": "https://tonyhermann.github.io/portfolio/assets/img_up_screen.png",
     "imageMobile": "https://i.imgur.com/j0esVqo.png",
     "imageFull": "https://tonyhermann.github.io/portfolio/assets/img_up_screen.png",
     "repoLink": "#",
     "liveLink": "https://img-up-front.web.app/"
+  },
+  {
+    "id": 9,
+    "title": "Bienes Raices MVC",
+    "description": "Este es un proyecto que hice en un curso de Udemy con Juan Pablo De la torre. Es un crud con PHP vanilla, sin ningún framework. Es 100% funcional y cuenta con un sistema de inicio de sesión, verificación de sesión y un panel de administrador para manejar las propiedades, vendedores y entradas del blog. ",
+    "languages": ["PHP", "Scss", "Javascript", "Gulp", "Cypress"],
+    "imagePc": "https://tonyhermann.github.io/portfolio/assets/bienes-raices-light-tiny.webp",
+    "imageMobile": "https://i.imgur.com/j0esVqo.png",
+    "imageFull": "https://tonyhermann.github.io/portfolio/assets/bienes-raices-light-tiny.webp",
+    "repoLink": "https://github.com/TonyHermann/BienesRaices/",
+    "liveLink": "http://bienesraices-mvc-t.herokuapp.com/"
   }
 ]
