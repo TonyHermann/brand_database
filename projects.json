@@ -90,7 +90,7 @@
   {
     "id": 9,
     "title": "Bienes Raices MVC",
-    "description": "Este es un proyecto que hice en un curso de Udemy con Juan Pablo De la torre. Es un crud con PHP vanilla, sin ningún framework. Es 100% funcional y cuenta con un sistema de inicio de sesión, verificación de sesión y un panel de administrador para manejar las propiedades, vendedores y entradas del blog. ",
+    "description": "[Caído. Pendiente.] Este es un proyecto que hice en un curso de Udemy con Juan Pablo De la torre. Es un crud con PHP vanilla, sin ningún framework. Es 100% funcional y cuenta con un sistema de inicio de sesión, verificación de sesión y un panel de administrador para manejar las propiedades, vendedores y entradas del blog. ",
     "languages": ["PHP", "Scss", "Javascript", "Gulp", "Cypress"],
     "imagePc": "https://tonyhermann.github.io/portfolio/assets/bienes-raices-light-tiny.webp",
     "imageMobile": "https://i.imgur.com/j0esVqo.png",
